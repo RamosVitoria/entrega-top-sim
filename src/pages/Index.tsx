@@ -46,7 +46,7 @@ const Index = () => {
                 <Navigation className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-xl font-bold text-foreground">RouteMax</h1>
+                <h1 className="text-xl font-bold text-foreground">Optilogix</h1>
                 <p className="text-xs text-muted-foreground">Otimizador de Rotas</p>
               </div>
             </div>
